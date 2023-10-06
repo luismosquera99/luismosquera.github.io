@@ -24,14 +24,10 @@ languages.
 
 Artificial Intelligence Research **Python**. Research in the field of Artificial Intelligence, in the area of Deep learning for the development and implementation of a proprietary architecture based on U-Net for the segmentation of images for the diagnosis of anomalies in pulmonary radiographs.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Back-End and Front-End Engineer | Fitness tracking web application
 
 Used **JavaScript | HTML | Angular | Node.js | MongoDB | CSS | npm** Development of an application with several functions that allow athletes to keep control of various areas of their
 lifestyle.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Front-End Engineer, UI Lead | Multi page website
 
@@ -43,5 +39,3 @@ Additionally, meticulously monitored user interactions across the application us
 
 ## Publication
 1. L. Mosquera-Berrazueta et al., "Red-Unet: An Enhanced U-Net Architecture to Segment Tuberculosis Lesions on X-Ray Images," 2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS), Guayaquil, Ecuador, 2023, pp. 1-7, doi: 10.1109/ICPRS58416.2023.10178991.
-
-- [Data Science Blog](https://medium.com/@shawhin)
